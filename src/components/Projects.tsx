@@ -138,7 +138,7 @@ const Projects = () => {
                   <div className="flex gap-2">
                     <Button size="sm" variant="outline" className="flex-1 border-border hover:bg-primary/10">
                       <Github className="h-4 w-4 mr-2" />
-                      Code
+                      <a href="https://github.com/Madancsta?tab=repositories">Code</a> 
                     </Button>
                     <Button size="sm" className="flex-1 bg-primary hover:bg-primary/90">
                       <ExternalLink className="h-4 w-4 mr-2" />
