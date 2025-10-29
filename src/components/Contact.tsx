@@ -43,7 +43,7 @@ const Contact = () => {
                 <Mail className="h-6 w-6 text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Email</h3>
-              <p className="text-sm text-muted-foreground">your.email@example.com</p>
+              <p className="text-sm text-muted-foreground">madancsta789@gmail.com</p>
             </div>
 
             <div className="text-center p-6 rounded-2xl bg-card border border-border hover:border-primary/50 transition-all duration-300 hover:shadow-glow">
@@ -51,7 +51,7 @@ const Contact = () => {
                 <Phone className="h-6 w-6 text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Phone</h3>
-              <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+              <p className="text-sm text-muted-foreground">9741803885</p>
             </div>
 
             <div className="text-center p-6 rounded-2xl bg-card border border-border hover:border-primary/50 transition-all duration-300 hover:shadow-glow">
@@ -59,7 +59,7 @@ const Contact = () => {
                 <MapPin className="h-6 w-6 text-primary" />
               </div>
               <h3 className="font-semibold mb-2">Location</h3>
-              <p className="text-sm text-muted-foreground">San Francisco, CA</p>
+              <p className="text-sm text-muted-foreground">Kathmandu, Nepal</p>
             </div>
           </div>
 
@@ -73,7 +73,7 @@ const Contact = () => {
       </div>
 
       <footer className="mt-20 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-        <p>© 2024 Your Name. Built with passion and lots of coffee ☕</p>
+        <p>© 2024 Madan Shrestha. Built with passion and lots of coffee ☕</p>
       </footer>
     </section>
   );

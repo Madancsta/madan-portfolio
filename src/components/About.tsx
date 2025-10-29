@@ -40,7 +40,7 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
             <div className="space-y-4">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I'm a passionate developer with 5+ years of experience creating web applications 
+                I'm a passionate developer with 3+ years of experience creating web applications 
                 that users love. My journey in tech started with curiosity and has evolved into 
                 a career building impactful digital solutions.
               </p>
