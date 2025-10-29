@@ -25,33 +25,33 @@ const Projects = () => {
 
   const projects = [
     {
-      title: "E-Commerce Platform",
+      title: "Onez",
       description: "A full-stack e-commerce solution with payment integration and admin dashboard.",
-      tags: ["React", "Node.js", "MongoDB"],
+      tags: ["Java", "Html", "JS", "JEE"],
       image: "🛒",
     },
     {
-      title: "Task Management App",
+      title: "Vendor Management System",
       description: "Collaborative task manager with real-time updates and team features.",
-      tags: ["TypeScript", "Firebase", "Tailwind"],
+      tags: ["Python", "Java Script", "MariaDB"],
       image: "✅",
     },
     {
-      title: "Portfolio Builder",
-      description: "SaaS platform helping creators build stunning portfolio websites.",
-      tags: ["Next.js", "Prisma", "Stripe"],
+      title: "Printech",
+      description: "SaaS platform helping customers buy printers",
+      tags: ["Html", "CSS", "JS"],
       image: "🎨",
     },
     {
-      title: "Weather Dashboard",
-      description: "Beautiful weather app with forecasts and location-based alerts.",
-      tags: ["React", "API", "Charts"],
+      title: "Kwality Banquet",
+      description: "A platform to book banquet halls with user reviews and ratings.",
+      tags: ["Html", "CSS", "JS"],
       image: "🌤️",
     },
     {
-      title: "Social Media Analytics",
-      description: "Track and analyze social media metrics across multiple platforms.",
-      tags: ["Vue.js", "Python", "AWS"],
+      title: "Quiz app",
+      description: "Interactive quiz application with multiple categories and score tracking.",
+      tags: ["React", "Node.js", "MongoDB"],
       image: "📊",
     },
     {

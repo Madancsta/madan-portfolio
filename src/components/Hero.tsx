@@ -25,12 +25,12 @@ const Hero = () => {
       <div className={`relative z-10 max-w-4xl mx-auto text-center transition-all duration-1000 ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}>
         <div className="mb-6 inline-block">
           <span className="px-4 py-2 rounded-full bg-primary/10 text-primary text-sm font-medium border border-primary/20">
-            Available for work
+            Student at ING
           </span>
         </div>
 
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-foreground via-primary to-foreground bg-clip-text text-transparent animate-gradient-shift bg-[length:200%_auto]">
-          Hi, I'm Your Name
+          Hi, I'm Madan Shrestha
         </h1>
 
         <p className="text-xl md:text-2xl text-muted-foreground mb-4">
@@ -54,13 +54,13 @@ const Hero = () => {
         </div>
 
         <div className="flex gap-4 justify-center">
-          <a href="#" className="p-3 rounded-full bg-secondary hover:bg-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-glow">
+          <a href="https://github.com/Madancsta?tab=repositories" className="p-3 rounded-full bg-secondary hover:bg-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-glow">
             <Github className="h-5 w-5" />
           </a>
-          <a href="#" className="p-3 rounded-full bg-secondary hover:bg-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-glow">
+          <a href="www.linkedin.com/in/madan-shrestha-8b7a9a302" className="p-3 rounded-full bg-secondary hover:bg-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-glow">
             <Linkedin className="h-5 w-5" />
           </a>
-          <a href="#" className="p-3 rounded-full bg-secondary hover:bg-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-glow">
+          <a href="madancsta789@gmail.com" className="p-3 rounded-full bg-secondary hover:bg-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-glow">
             <Mail className="h-5 w-5" />
           </a>
         </div>

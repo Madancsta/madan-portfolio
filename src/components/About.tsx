@@ -23,9 +23,9 @@ const About = () => {
   }, []);
 
   const skills = [
-    { icon: Code2, title: "Development", desc: "React, TypeScript, Node.js" },
+    { icon: Code2, title: "Development", desc: "React, TypeScript, Node.js, python, java" },
     { icon: Palette, title: "Design", desc: "UI/UX, Figma, Tailwind" },
-    { icon: Rocket, title: "Deployment", desc: "AWS, Vercel, Docker" },
+    { icon: Rocket, title: "Deployment", desc: "AWS, Github" },
   ];
 
   return (
